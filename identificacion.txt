@@ -1,2 +1,7 @@
 2769537
+<<<<<<< HEAD
 Cambio en finales
+=======
+Cambio en pruebas
+>>>>>>> pruebas
+Cambio en remoto
